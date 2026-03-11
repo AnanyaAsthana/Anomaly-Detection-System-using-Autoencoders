@@ -1,0 +1,5 @@
+<routes> 
+  <vType id="polite_car" accel="2.6" decel="4.5" sigma="0.3" length="5" maxSpeed="30" carFollowModel="IDM" lcStrategic="1.0" lcCooperative="1.0"/> 
+  <route id="route_0" edges="A0B0 B0B1"/> 
+  <flow id="normal_flow" type="polite_car" route="route_0" begin="0" end="300" number="80"/> 
+</routes> 
